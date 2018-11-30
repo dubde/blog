@@ -1,23 +1,20 @@
-<!-- Post Template -->
-<article class="post fade-in">
-  <h1 class="post-title">
-    <%= data.title %>
-  </h1>
+<div class="blog-post fade-in">
+  <h2 class="blog-post-title"><%= data.title %></h2>
   <% if(data.date) { %>
-    <time class="post-date">
-      <span><%= data.date %></span>
-    </time>
+    <p class="blog-post-meta"><%= data.date %> by <a href="#">Mark</a></p>
   <% } %>
-  <div class="post-tags">
+  <div class="blog-post-tags pb-4">
     <% if(data.tags) { %>
       <% data.tags.forEach(function(tag) { %>
         <% if(tag) { %>
-          <a href="#/posts?tag=<%= tag %>" class="post-tag"><%= tag %></a>
+          <a href="#/posts?tag=<%= tag %>">
+            <button type="button" class="btn btn-primary btn-sm">
+              <%= tag %>
+            </button>
+          </a>
         <% } %>
       <% }) %>
     <% } %>
   </div>
-  <div class="post-content">
-    <%= data.body %>
-  </div>
-</article>
+  <%= data.body %>
+</div>

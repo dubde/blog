@@ -1,6 +1,6 @@
-<!-- Page List Template -->
+<h1>Pages</h1>
+<hr>
 <div class="pages-list fade-in">
-  <h1><%= data.type %></h1>
   <% data.pages.forEach(function(page) { %>
     <h2>
       <a href="<%= page.permalink %>"><%= page.title %></a>
@@ -10,3 +10,4 @@
     <% } %>
   <% }) %>
 </div>
+
