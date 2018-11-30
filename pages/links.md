@@ -2,6 +2,9 @@
 title: Links
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Morbi tincidunt ornare massa eget egestas purus viverra. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Potenti nullam ac tortor vitae. Vitae sapien pellentesque habitant morbi tristique. Aliquam sem et tortor consequat id porta nibh venenatis cras. Integer vitae justo eget magna fermentum iaculis eu. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Mattis enim ut tellus elementum sagittis. Adipiscing enim eu turpis egestas pretium aenean pharetra magna. Ullamcorper malesuada proin libero nunc consequat interdum varius. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Est ullamcorper eget nulla facilisi etiam dignissim diam quis enim. Eget nunc scelerisque viverra mauris in aliquam sem fringilla. Vitae tempus quam pellentesque nec nam aliquam sem et tortor.
+Link importanti ad alcuni progetti che seguo:
 
-Tellus molestie nunc non blandit massa. Porttitor leo a diam sollicitudin. Malesuada pellentesque elit eget gravida cum sociis natoque. Ultricies leo integer malesuada nunc vel risus commodo viverra. Amet porttitor eget dolor morbi non arcu. Bibendum arcu vitae elementum curabitur vitae nunc. Ut sem nulla pharetra diam sit amet. Ac feugiat sed lectus vestibulum mattis ullamcorper. Eu volutpat odio facilisis mauris sit amet massa vitae. Semper eget duis at tellus at urna condimentum mattis pellentesque. Tincidunt dui ut ornare lectus sit amet. Sed augue lacus viverra vitae congue eu. Nisi lacus sed viverra tellus. Sed id semper risus in. Urna nunc id cursus metus aliquam.
+- [Agape Centro Ecumenico](https://agapecentroecumenico.org) - Piattaforma online per il centro dove ho fatto volontariato per gli scorsi 10 anni. Sviluppata da me per loro nel tempo libero.
+- [The Big O Blog](https://www.thebigo.it) - Blog di critica digitale su media elettronici/virtuali, tenuto dal sottoscritto assieme al caro Luca
+- [Rocca Bianca](https://jedwabowski.altervista.org) - Blog personale in cui raccolgo idee/progetti personali/life bugfixes e li pubblico a mo di contenitore
+- [Residenza](http://jedwabowski.altervista.org/residenza) - Diario personale dell' esperienza di vita come volontario a tempo pieno per Agape Centro Ecumenico.
