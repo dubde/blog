@@ -1,3 +1,5 @@
+Personal dev blog developd with CMS.js.
+
 ## CMS.js Starter
 
 **Quick Start**
@@ -8,10 +10,9 @@
 4. If using Github mode, create a new branch from your master or working branch called `gh-pages` (Github's default branch for hosting)
 5. Visit your site! (which should be located at `https://yourusername.github.io/cms.js-starter`)
 
-
 ![CMS.js Screenshot](https://raw.githubusercontent.com/chrisdiana/cms.js/gh-pages/img/screenshot.png)
 
 ## Learn more about CMS.js
 
-* Visit the [CMS.js repo](https://github.com/chrisdiana/cms.js) to learn more
-* Get more themes and templates [here](https://chrisdiana.github.io/cms.js-themes)
+- Visit the [CMS.js repo](https://github.com/chrisdiana/cms.js) to learn more
+- Get more themes and templates [here](https://chrisdiana.github.io/cms.js-themes)
