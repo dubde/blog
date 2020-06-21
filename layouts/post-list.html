@@ -1,18 +1,23 @@
-<!-- Post List Template -->
-<div class="posts-list fade-in">
+<h1>Posts</h1>
+<hr>
+<div class="blog-posts-list fade-in">
   <% data.posts.forEach(function(post) { %>
     <% if(!post.draft) { %>
-      <article class="post">
-        <h1 class="post-title">
-          <a href="<%= post.permalink %>"><%= post.title %></a>
-        </h1>
-        <time class="post-date">5/28/2015</time>
-        <div class="post-content">
-          <% if(post.excerpt) { %>
-            <p><%= post.excerpt %></p>
-          <% } %>
-        </div>
-      </article>
+      <div class="blog-post">
+        <a href="<%= post.permalink %>">
+          <h2 class="blog-post-title"><%= post.title %></h2>
+        </a>
+        <% if(post.date) { %>
+          <p class="blog-post-meta"><%= post.date %> 
+            <% if(post.author) { %>
+              by <%= post.author %>
+            <% } %>
+          </p>
+        <% } %>
+        <% if(post.excerpt) { %>
+          <p><%= post.excerpt %></p>
+        <% } %>
+      </div>
     <% } %>
   <% }) %>
 </div>
