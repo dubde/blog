@@ -34,7 +34,7 @@ template infatti non vengono compilatii ma vengono soltanto interpretati. Sincer
 1. La logica non e` testabile.
    Se vogliamo essere sicuri che la rappresentazione mostrata sia coerente con le specifiche dobbiamo scrivere un test appropriato. Ma se releghiamo la logica
    al template, non possiamo scrivere uno unit test dedicato.
-2. Il codice non e` compilato prima di andare in runtime (C\#)
+2. Il codice non e` compilato prima di andare in runtime (.NET)
 3. Business logic nascosta
 4. template condizionali sono poco leggibili
 
